@@ -1,0 +1,8 @@
+Neste projeto, o que faremos é a construção de uma API que será consumida
+por uma API Client. É possível construir esta API Client a partir do padrão
+WEB APP?(veremos.)
+
+Obs:
+    Fizemos uma minimal API, que basicamente usa endPoints invés de controllers. 
+    A atenção que se deve dar aqui é que, a sessão com o banco de dados continua sendo
+    construido da mesma maneira(Usando o EF e Migrations).
